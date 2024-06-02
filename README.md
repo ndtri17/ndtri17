@@ -1,6 +1,6 @@
  # Hello, I'm @ndtri17👋
 
-Welcome to my GitHub profile! I am currently a student at Web@academie, deeply engaged in honing my web development skills. I am actively seeking a 14-month alternance opportunity where I can contribute and grow into a full stack developer.
+Welcome to my GitHub profile! I am currently a student at Web@academie, deeply engaged in honing my web development skills. I am actively seeking a 14-month apprenticeship opportunity where I can contribute and grow into a full stack developer.
 
 ## About Me
 
