@@ -28,8 +28,6 @@ Welcome to my GitHub profile! I am currently a student at Web@academie, deeply e
 
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
-- **Next Steps**: I plan to continue deepening my understanding of database technologies to enhance my backend skills further. Additionally, I am considering learning **Node.js** to expand my expertise into building scalable network applications.
-
 ## How to Connect With Me
 
 Here’s how you can reach out to me:
